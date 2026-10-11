@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.DS_Store
+~$*.xlsx
+
+# 问卷数据不纳入版本管理
+data/
